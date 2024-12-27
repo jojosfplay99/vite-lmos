@@ -56,7 +56,7 @@ export default function SearchAppBar() {
     <Box
         sx={{
             flexGrow: 1,
-            width: { xs: '100%', sm: 'auto' }, // Example for responsive widths
+            width: '100%', // Example for responsive widths
         }}
     >
       <AppBar position="static">
