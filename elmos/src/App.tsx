@@ -2,7 +2,7 @@ import { useState } from 'react'
 import '@fontsource/lexend'
 
 //Import Components
-import SearchAppBar from './components/navbar-component'
+import DrawerAppBar from './components/navbar-component'
 
 import './App.css'
 
